@@ -1,5 +1,5 @@
 // Maximum Count of Positive Integer and Negative Integer
-package main
+package binary_search_easy
 
 func maximumCount(nums []int) int {
 	negCount := binarySearch(nums, 0)
