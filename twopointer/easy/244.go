@@ -1,7 +1,6 @@
 package twopointer_easy
 
 //Reverse String
-
 func reverseString(s []byte) {
 	l, r := 0, len(s)-1
 
